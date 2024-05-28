@@ -1,0 +1,180 @@
+{
+  "words": [
+    {
+      "word": "HTML",
+      "hint": "Foundation of all web pages, not a programming language."
+    },
+    {
+      "word": "FLUX",
+      "hint": "Describes the default layout behavior of elements without CSS intervention."
+    },
+    {
+      "word": "TOP",
+      "hint": "Often paired with 'margin' or 'padding' to adjust vertical spacing."
+    },
+    {
+      "word": "BOTTOM",
+      "hint": "Opposite of top; useful in vertical positioning."
+    },
+    {
+      "word": "LEFT",
+      "hint": "Aligns or positions elements along the horizontal axis."
+    },
+    {
+      "word": "RIGHT",
+      "hint": "Commonly used with layout and alignment, mirrors another horizontal direction."
+    },
+    {
+      "word": "DOCUMENT",
+      "hint": "Refers to the web page structure as parsed by the browser."
+    },
+    {
+      "word": "ABSOLUTE",
+      "hint": "A positioning context that can overlap others without impact."
+    },
+    {
+      "word": "FLOAT",
+      "hint": "Allows an element to break from the line and let other content wrap around it."
+    },
+    {
+      "word": "CLEAR",
+      "hint": "Resets the floating behavior of elements, ensuring no overlap."
+    },
+    {
+      "word": "RELATIVE",
+      "hint": "Adjusts element's position without altering its effect on neighbors."
+    },
+    {
+      "word": "BLOCK",
+      "hint": "Element type that naturally consumes the full width of its parent."
+    },
+    {
+      "word": "INLINE",
+      "hint": "Elements of this type do not start on new lines."
+    },
+    {
+      "word": "INLINE-BLOCK",
+      "hint": "Combines line flow with block-like characteristics."
+    },
+    {
+      "word": "FIXED",
+      "hint": "Keeps an element stationary during page scrolling."
+    },
+    {
+      "word": "VIEWPORT",
+      "hint": "The device window through which a website is viewed."
+    },
+    {
+      "word": "WIDTH",
+      "hint": "Determines horizontal boundaries of an element."
+    },
+    {
+      "word": "HEIGHT",
+      "hint": "Determines vertical boundaries of an element."
+    },
+    {
+      "word": "PADDING",
+      "hint": "Controls the space between content and border, affecting the box model."
+    },
+    {
+      "word": "BORDER",
+      "hint": "Defines the outer edge of elements, often styled for visual emphasis."
+    },
+    {
+      "word": "MARGIN",
+      "hint": "Controls external spacing around an element, critical for layout."
+    },
+    {
+      "word": "HEXADECIMAL",
+      "hint": "A numerical format in base 16, frequently used for color coding."
+    },
+    {
+      "word": "RGB",
+      "hint": "A color model using three primary colors to create a spectrum."
+    },
+    {
+      "word": "BOTH",
+      "hint": "Used to specify handling for all sides in certain CSS properties."
+    },
+    {
+      "word": "RGBA",
+      "hint": "Adds an alpha channel to RGB for opacity control."
+    },
+    {
+      "word": "COLOR",
+      "hint": "Applies typographic color, accepting various format values."
+    },
+    {
+      "word": "BACKGROUND",
+      "hint": "Can be solid, gradient, or image-based underneath the content."
+    },
+    {
+      "word": "BACKGROUND-COLOR",
+      "hint": "Fills the element's back layer, beneath the content."
+    },
+    {
+      "word": "BACKGROUND-IMAGE",
+      "hint": "Allows imagery behind content, controlled by additional properties."
+    },
+    {
+      "word": "POSITION",
+      "hint": "Determines an element’s layout strategy in relation to its container."
+    },
+    {
+      "word": "BACKGROUND-POSITION",
+      "hint": "Adjusts the starting point of a background image within its element."
+    },
+    {
+      "word": "BACKGROUND-SIZE",
+      "hint": "Specifies dimensions or scaling of background images."
+    },
+    {
+      "word": "REPEAT",
+      "hint": "Controls how background visuals tile across an element."
+    },
+    {
+      "word": "BACKGROUND-REPEAT",
+      "hint": "Determines if and how a background image repeats."
+    },
+    {
+      "word": "BORDER-RADIUS",
+      "hint": "Creates rounded corners, adjustable per corner."
+    },
+    {
+      "word": "BOX-SIZING",
+      "hint": "Alters the CSS box model used to calculate widths and heights."
+    },
+    {
+      "word": "BORDER-BOX",
+      "hint": "Includes padding and border in the element's dimensions."
+    },
+    {
+      "word": "CONTENT-BOX",
+      "hint": "The default CSS box model, excluding padding and border from dimensions."
+    },
+    {
+      "word": "COVER",
+      "hint": "Ensures complete coverage, often cropping to fit."
+    },
+    {
+      "word": "CONTAIN",
+      "hint": "Ensures visibility of entirety without cropping."
+    },
+    {
+      "word": "REPEAT-X",
+      "hint": "Applies horizontal tiling of a background image."
+    },
+    {
+      "word": "REPEAT-Y",
+      "hint": "Applies vertical tiling of a background image."
+    },
+    {
+      "word": "BORDER-STYLE",
+      "hint": "Defines how the edges of a border are displayed."
+    },
+    {
+      "word": "BORDER-COLOR",
+      "hint": "Specifies the color applied to an element's border."
+    }
+  ]
+}
